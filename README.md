@@ -1,5 +1,5 @@
 # express passwordless sample
 
-## passwordless
+## passwordless npm
 
 https://github.com/florianheinemann/passwordless
